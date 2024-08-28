@@ -1,7 +1,9 @@
 ## Hi there 👋
-🔭 I’m currently working on: Python audio tools
-🌱 I’m currently learning: Python/C++/Wwise
-📫 How to reach me: mk@mattkern.com
+🔭 I’m currently working on: Python audio tools <br>
+🌱 I’m currently learning: Python/C++/Wwise <br>
+📫 How to reach me: mk@mattkern.com <br>
+ <br> <br>
+ I have so many audio scripts I'm trying to decide the best format to put them in a public repo for the easiest consumption. Open to suggestions.  
 
 <!--
 **mattkern/mattkern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
