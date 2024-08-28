@@ -1,4 +1,7 @@
 ## Hi there 👋
+🔭 I’m currently working on: Python audio tools
+🌱 I’m currently learning: Python/C++/Wwise
+📫 How to reach me: mk@mattkern.com
 
 <!--
 **mattkern/mattkern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
