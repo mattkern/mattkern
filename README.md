@@ -1,6 +1,6 @@
 ## Hi there 👋
 🔭 I’m currently working on: Python audio tools <br>
-🌱 I’m currently learning: Python/C++/Wwise API (WAPPI) <br>
+🌱 I’m currently into: Python/C++/Wwise API (WAPPI) <br>
 📫 How to reach me: mk@mattkern.com <br>
  <br> <br>
  I have so many audio scripts I'm trying to decide the best format to put them in a public repo for the easiest consumption. Open to suggestions.  
