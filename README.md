@@ -1,4 +1,4 @@
-## Hi there 👋
+## こんにちは 👋
 🔭 I’m currently working on: Python audio tools <br>
 🌱 I’m currently into: Python/C++/Wwise API (WAPPI) <br>
 📫 How to reach me: mk@mattkern.com <br>
